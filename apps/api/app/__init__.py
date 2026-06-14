@@ -1,0 +1,1 @@
+"""MultiFileRAG FastAPI application."""

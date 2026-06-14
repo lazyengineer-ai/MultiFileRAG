@@ -1,0 +1,9 @@
+{
+  "documents": ["pdf", "docx", "doc", "txt", "md", "rtf"],
+  "spreadsheets": ["xlsx", "xls", "csv", "ods"],
+  "source_code": [
+    "py", "js", "ts", "jsx", "tsx", "java", "json", "html", "xml", "css",
+    "yaml", "yml", "sql", "go", "rs", "rb", "php", "c", "cpp", "h",
+    "sh", "bash", "swift", "kt", "vue", "toml"
+  ]
+}
